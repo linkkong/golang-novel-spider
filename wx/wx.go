@@ -11,7 +11,6 @@ const (
 	AppID      = "your appid"
 	AppSecret  = "your appsecret"
 	TemplateID = "your templateid"
-	Token      = "15_LfHiyt6fR2YfApiMdIiTYRJkRpjugHC_Dv2XuTIuW5e8f02Tnnpm9ceNGw_cZlCOXzy7JlZ-GmAUXWlU9oJ5puv_1k3rMBjVyT89YPKa6owfSvbRX7KSqdLi3AVGDBGtrVd5_YMsR0KII3KYYSScAAASMM"
 )
 
 type AccessToken struct {
